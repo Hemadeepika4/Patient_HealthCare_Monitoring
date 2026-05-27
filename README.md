@@ -34,7 +34,6 @@ When abnormal values are detected, the system automatically sends SMS alerts and
 - Sound Sensor
 - Buzzer
 - Jumper Wires
-- Breadboard
 - Power Supply
 
 ## Libraries Used
